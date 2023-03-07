@@ -10,6 +10,7 @@ namespace HelloWorld //package
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Wolrd");
             
         }
     }
